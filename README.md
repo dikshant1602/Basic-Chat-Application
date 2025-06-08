@@ -1,4 +1,6 @@
-#Dynamic Live Chat using PHP, MySQL, and AJAX
+# Basic Chat Application
+
+## Dynamic Live Chat using PHP, MySQL, and AJAX
 
 🚀 This project helped me learn how to develop an interactive chat platform from scratch.
 
